@@ -1,4 +1,21 @@
+# Star Wars Guide | Invillia Test
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Dependencies
+
+ - yarn < 1.19.1
+ - node < v10.16.0
+ - npm < 6.9.0
+
+## Get Started
+
+`yarn`
+
+after,
+
+`yarn start`
+
 
 ## Available Scripts
 
