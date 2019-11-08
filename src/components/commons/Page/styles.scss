@@ -1,0 +1,18 @@
+.page {
+	&MenuButton {
+		margin-right: 1rem;
+	}
+
+	&Title {
+		flex-grow: 1;
+	}
+
+	&Content {
+		padding: 2rem;
+	}
+
+	&Toolbar {
+		background-color: #000;
+		color: yellow;
+	}
+}
